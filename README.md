@@ -19,6 +19,12 @@ Las tecnologias que manejo son:
 #Redux
 
 
+Datos de contacto:
+
+Mail: sortano59@gmail.com
+Linkedin: https://www.linkedin.com/in/ezequiel-sortano-43446922a/
+
+
 
 
 
